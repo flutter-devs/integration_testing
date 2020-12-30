@@ -1,4 +1,4 @@
-# firebase_practice
+# integration_testing
 
 A new Flutter application.
 
